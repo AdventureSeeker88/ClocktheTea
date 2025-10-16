@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210079793873",
+    "project_id": "clockthattea-da2a7",
+    "storage_bucket": "clockthattea-da2a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210079793873:android:0d296fe29c401aa195bbf0",
+        "android_client_info": {
+          "package_name": "com.clocktea.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210079793873-fasv1v7ssma5a9hvam2ok2p758tnk2hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0W9mGzjEbJ2hmY_ynebCrAxlrdcTUkeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210079793873-fasv1v7ssma5a9hvam2ok2p758tnk2hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
